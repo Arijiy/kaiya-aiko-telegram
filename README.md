@@ -13,7 +13,7 @@ Kaiya Aiko is a friendly AI companion bot designed to provide companionship and 
 **You can test Aiko here: [CLICK HERE](https://t.me/aiko_kaiya_BOT)**
 
 **Don't want to test? Check the test!**
-`Click the video below to see the demon video of test Aiko ChatBOT, if the video didn't appeared click the below link.`
+`Click the video below to see the demo video of test Aiko ChatBOT, if the video didn't appeared click the below link.`
 
 [![CLICK HERE PLEASE VIDEO DIDN'T APPEARED](https://i.postimg.cc/SxFCStQz/Pics-Art-06-10-09-56-57.jpg)](https://player.vimeo.com/video/955739997?h=f592d3d3c6) 
 
