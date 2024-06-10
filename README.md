@@ -26,13 +26,18 @@ Aiko is a friendly AI companion bot designed to provide companionship and suppor
     ```sh
     python3 -m venv venv
     source venv/bin/activate
-    ```
+    ```   
 3. **Set up environment variables**:
     Create a `.env` file in the root directory and add your API keys:
     ```env
     GEMINI_API_KEY=your_google_gemini_api_key
     TELEGRAM_BOT_API_KEY=your_telegram_bot_token
     ```
+4. **Install the requirements packages**:
+   - Install telegram 13 package
+   ```pip install python-telegram-bot==13.14```
+   - Install Google GenerativeAI package
+   ```pip install google-generativeai```
 
 ## Usage 🚀
 1. **Run the bot**:
@@ -42,11 +47,20 @@ Aiko is a friendly AI companion bot designed to provide companionship and suppor
 2. **Interact with the bot on Telegram**:
     - Use the `/start` command to initiate a conversation.
     - Send messages and interact with Aiko.
+  
+## Host The Bot 📡
+1. Visit [PythonAnywhere](https://www.pythonanywhere.com/)
+2. Create a account or sign-in to your account.
+3. In your dashboard, go to ***files***.
+4. There will be 7 files already from **pythonanywhere**, just write the name of your file ***main.py***, and click on the **NEW FILE** button.
+5. The editor will open, paste the python code there, and click on ***OPEN DASH CONSOLE***, to open the terminal.
+6. Install the [requires packages](##installation), through the terminal.
+7. Click on the run button.
+8. If you console shows, "**INFO_SHEDULER, STARTED**", well congrats your bot is now live or else there is an error will seting up your bot. 
     
 ## Code Overview 📂
 - **bot.py**: Main file containing the bot logic and handlers.
 - **keep_alive.py**: Script to keep the bot running.
-- **requirements.txt**: List of required Python packages.
 
 ## Handlers 🛠️
 - **start**: Greets the user and starts the conversation.
