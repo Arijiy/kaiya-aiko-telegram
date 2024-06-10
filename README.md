@@ -1,6 +1,8 @@
 # Aiko: Your AI Companion
 Aiko is a friendly AI companion bot designed to provide companionship and support, especially for introverts. This bot is developed using Python, Telegram Bot API, and Google Gemini API for generating responses.
 
+![Alt text](https://i.postimg.cc/XNm9PP9C/img-LBFr-Zk1-Nesh-Sc-Vi-J53-Ox-V.jpg)
+
 ## Features
 - **Unlimited Messaging for Specific User**: The user with the username `@itsarijit_01` can send unlimited messages.
 - **Message Limits**: Other users have a message limit of 20 messages every 5 hours.
