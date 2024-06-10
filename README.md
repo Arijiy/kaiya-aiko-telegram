@@ -1,5 +1,6 @@
 # Aiko: Your AI Companion 🤖💬
 Aiko is a friendly AI companion bot designed to provide companionship and support, especially for introverts. This bot is developed using Python, Telegram Bot API, and Google Gemini API for generating responses.
+
 ![Alt text](https://i.postimg.cc/XNm9PP9C/img-LBFr-Zk1-Nesh-Sc-Vi-J53-Ox-V.jpg)
 
 ## Features 🌟
