@@ -61,7 +61,7 @@ Kaiya Aiko is a friendly AI companion bot designed to provide companionship and 
 
 ***PythonAnywhere is a free source for hosting your bot for test, for like a small community or members. If you have a large community, free is not for you cause your bot may become slow, so I will recommend buying one of there [tiers](https://www.pythonanywhere.com/user/synthwavestudios/account/).***
 
-<iframe width="560" height="315" src="https://vimeo.com/955739997?share=copy" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vimeo.com/955739997?share=copy" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Code Overview 📂
 - **bot.py**: Main file containing the bot logic and handlers.
