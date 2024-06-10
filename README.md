@@ -1,7 +1,7 @@
 # Kaiya Aiko: Your AI Companion 🤖💬
 Kaiya Aiko is a friendly AI companion bot designed to provide companionship and support, especially for introverts. This bot is developed using Python, Telegram Bot API, and Google Gemini API for generating responses.
 
-![Alt text](https://i.postimg.cc/XNm9PP9C/img-LBFr-Zk1-Nesh-Sc-Vi-J53-Ox-V.jpg)
+![Alt text](https://i.postimg.cc/zD4R7PgP/Pics-Art-06-10-09-42-34.jpg)
 
 ## Features 🌟
 - **Unlimited Messaging for Specific User**: The user with the username `@your_telegram_user` can send unlimited messages.
