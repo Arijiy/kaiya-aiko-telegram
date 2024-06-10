@@ -1,13 +1,14 @@
-# Aiko: Your AI Companion 🤖💬
-Aiko is a friendly AI companion bot designed to provide companionship and support, especially for introverts. This bot is developed using Python, Telegram Bot API, and Google Gemini API for generating responses.
+# Kaiya Aiko: Your AI Companion 🤖💬
+Kaiya Aiko is a friendly AI companion bot designed to provide companionship and support, especially for introverts. This bot is developed using Python, Telegram Bot API, and Google Gemini API for generating responses.
 
 ![Alt text](https://i.postimg.cc/XNm9PP9C/img-LBFr-Zk1-Nesh-Sc-Vi-J53-Ox-V.jpg)
 
 ## Features 🌟
-- **Unlimited Messaging for Specific User**: The user with the username `@itsarijit_01` can send unlimited messages.
-- **Message Limits**: Other users have a message limit of 20 messages every 5 hours.
-- **Picture Sharing**: Aiko can share pictures after a conversation threshold.
+- **Unlimited Messaging for Specific User**: The user with the username `@your_telegram_user` can send unlimited messages.
+- **Message Limits**: Other users have a message limit of 20 messages every 1 hour.
+- **Picture Sharing**: Aiko can share pictures after a conversation threshold, **but owner don't need a proper conversation, he can request pictures all the time**.
 - **Random Dialogues**: Aiko sends random dialogues along with pictures.
+- **No NSFW Pictures**: Aiko blurs the images of NSFW pictures. 
 
 **You can test Aiko here: [CLICK HERE](https://t.me/aiko_kaiya_BOT)**
 
