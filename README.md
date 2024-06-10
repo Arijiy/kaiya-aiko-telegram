@@ -60,7 +60,9 @@ Kaiya Aiko is a friendly AI companion bot designed to provide companionship and 
 8. If you console shows, "**INFO_SHEDULER, STARTED**", well congrats your bot is now live or else there is an error while seting up your bot.
 
 ***PythonAnywhere is a free source for hosting your bot for test, for like a small community or members. If you have a large community, free is not for you cause your bot may become slow, so I will recommend buying one of there [tiers](https://www.pythonanywhere.com/user/synthwavestudios/account/).***
-    
+
+<iframe width="560" height="315" src="https://vimeo.com/955739997?share=copy" frameborder="0" allowfullscreen></iframe>
+
 ## Code Overview 📂
 - **bot.py**: Main file containing the bot logic and handlers.
 - **keep_alive.py**: Script to keep the bot running.
