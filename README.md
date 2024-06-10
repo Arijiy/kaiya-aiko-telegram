@@ -27,11 +27,7 @@ Aiko is a friendly AI companion bot designed to provide companionship and suppor
     python3 -m venv venv
     source venv/bin/activate
     ```
-3. **Install the dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-4. **Set up environment variables**:
+3. **Set up environment variables**:
     Create a `.env` file in the root directory and add your API keys:
     ```env
     GEMINI_API_KEY=your_google_gemini_api_key
