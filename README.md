@@ -78,3 +78,16 @@ This project is licensed under the MIT License.
 - Developed by [Arijit (lonewolf)](https://github.com/Arijiy)
 - Uses [Google Gemini API](https://cloud.google.com/gemini)
 - Built with [Python Telegram Bot](https://python-telegram-bot.org)
+
+Sure, here is a message for contributors:
+
+## Contributing 🤝
+We welcome contributions from the community to help improve Aiko. Whether it's fixing bugs, adding new features, or improving documentation, your input is valuable. To get started:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your fork.
+5. Create a pull request explaining your changes.
+
+Thank you for your contributions! Let's make Aiko better together! 💡🚀
