@@ -56,7 +56,9 @@ Aiko is a friendly AI companion bot designed to provide companionship and suppor
 5. The editor will open, paste the python code there, and click on ***OPEN DASH CONSOLE***, to open the terminal.
 6. Install the [requires packages](##installation), through the terminal.
 7. Click on the run button.
-8. If you console shows, "**INFO_SHEDULER, STARTED**", well congrats your bot is now live or else there is an error will seting up your bot. 
+8. If you console shows, "**INFO_SHEDULER, STARTED**", well congrats your bot is now live or else there is an error while seting up your bot.
+
+***PythonAnywhere is a free source for host you bot for test, for like a small community or members. If you have a large community, free is not for you cause your bot may become slow, so I will recommend buying one of there [tiers](https://www.pythonanywhere.com/user/synthwavestudios/account/).***
     
 ## Code Overview 📂
 - **bot.py**: Main file containing the bot logic and handlers.
