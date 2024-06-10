@@ -21,8 +21,7 @@ Kaiya Aiko is a friendly AI companion bot designed to provide companionship and 
 
 ### (Model: Aiko v1.0)
 Test image of Aiko ***v1.0*** or ***gemini v1.0 Pro***.
-
-[![Screenshot-2024-06-10-10-19-24-854-org-telegram-messenger.jpg](https://i.postimg.cc/nLd6fmKM/Screenshot-2024-06-10-10-19-24-854-org-telegram-messenger.jpg)]
+![Screenshot-2024-06-10-10-19-24-854-org-telegram-messenger.jpg](https://i.postimg.cc/nLd6fmKM/Screenshot-2024-06-10-10-19-24-854-org-telegram-messenger.jpg)]
 
 ## Prerequisites 🛠️
 - Python 3.7+
