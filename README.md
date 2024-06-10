@@ -13,7 +13,7 @@ Kaiya Aiko is a friendly AI companion bot designed to provide companionship and 
 **You can test Aiko here: [CLICK HERE](https://t.me/aiko_kaiya_BOT)**
 
 **Don't want to test? Check the test!***
-[!video](https://i.postimg.cc/zD4R7PgP/Pics-Art-06-10-09-42-34.jpg)](https://player.vimeo.com/video/955739997?h=f592d3d3c6)
+[!video](https://i.postimg.cc/zD4R7PgP/Pics-Art-06-10-09-42-34.jpg)
 ## Prerequisites 🛠️
 - Python 3.7+
 - Telegram Bot Token
@@ -62,8 +62,6 @@ Kaiya Aiko is a friendly AI companion bot designed to provide companionship and 
 8. If you console shows, "**INFO_SHEDULER, STARTED**", well congrats your bot is now live or else there is an error while seting up your bot.
 
 ***PythonAnywhere is a free source for hosting your bot for test, for like a small community or members. If you have a large community, free is not for you cause your bot may become slow, so I will recommend buying one of there [tiers](https://www.pythonanywhere.com/user/synthwavestudios/account/).***
-
-<iframe src="https://player.vimeo.com/video/955739997?h=f592d3d3c6" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Code Overview 📂
 - **bot.py**: Main file containing the bot logic and handlers.
