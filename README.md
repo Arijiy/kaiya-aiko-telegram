@@ -42,10 +42,12 @@ Kaiya Aiko is a friendly AI companion bot designed to provide companionship and 
 4. **Install the requirements packages**:
 - Install telegram 13 package
    ```sh
-pip install python-telegram-bot==13.14```
+    pip install python-telegram-bot==13.14
+    ```   
 - Install Google GenerativeAI package
    ```sh
-pip install google-generativeai```
+    pip install google-generativeai
+    ```   
 
 ## Usage 🚀
 1. **Run the bot**:
