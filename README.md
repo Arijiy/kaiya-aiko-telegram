@@ -33,7 +33,7 @@ Test image of Aiko ***v1.0*** or **gemini v1.0 Pro**
 ## Installation 💻
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/aiko-bot.git
+    git clone https://github.com/Arijiy/aiko-bot.git
     cd aiko-bot
     ```
 2. **Create a virtual environment and activate it**:
