@@ -1,6 +1,6 @@
 # Kaiya Aiko: Your AI Companion 🤖💬
-[![GitHub latest release](https://img.shields.io/github/v/release/vrm-c/UniVRM?color=green)](https://github.com/vrm-c/UniVRM/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/vrm-c/UniVRM)](https://github.com/vrm-c/UniVRM/blob/master/LICENSE.txt)
+[![GitHub latest release](https://img.shields.io/github/v/release/vrm-c/UniVRM?color=green)]()
+[![GitHub license](https://img.shields.io/github/license/vrm-c/UniVRM)]()
 
 Kaiya Aiko is a friendly AI companion bot designed to provide companionship and support, especially for introverts. This bot is developed using Python, Telegram Bot API, and Google Gemini API for generating responses.
 
